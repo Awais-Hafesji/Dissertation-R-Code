@@ -6,4 +6,4 @@ There are two files which you may wish to look at for further inspection.
 
 The 'Local Authority Data.R' file contains the code used for the data pre-processing and the creation of the PDAI.
 
-The 'tmap.R' file contains the code used to create the spatial outputs used in the results section of the dissertation.
+The 'tmap.R' file contains the code used to create the spatial outputs shown in the results section of the dissertation.
