@@ -1,6 +1,6 @@
 # Dissertation Code
 
-Welcome to the GitHub repository which contains the code used to create the PDAI and map outputs as part of the GEOG3630 Human Geography Dissertation submission.
+Welcome to the GitHub repository which contains the code used to create the PDAI and map outputs as part of the GEOG3630 Human Geography (Quantitative Methods) Dissertation submission.
 
 There are two files which you may wish to look at for further inspection.
 
